@@ -62,7 +62,7 @@ enableGitInfo = false
   avatar = "photo_reseaux.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
 
   # Details for the Contact Widget
-  email = "adrien.bennetot.upmc[at] gmail [dot] com"
+  email = "adrien.bennetot.upmc@gmail.com"
   address = ""
   office_hours = ""
   phone = ""
